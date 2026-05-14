@@ -356,6 +356,11 @@ def main():
 
         # 4. Nova sessão?
         resposta = input("  Simular nova sessão? [s/n]: ").strip().lower()
+
+        while resposta != "s" and resposta != "n":
+            print("Opção inválida. Escolha entre s/n.")
+            resposta = input("  Simular nova sessão? [s/n]: ").strip().lower()
+
         if resposta != "s":
             print("\n  Encerrando ChargeGrid Intelligence. Até logo!\n")
             break
