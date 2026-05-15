@@ -1,4 +1,14 @@
 # ChargeGrid Intelligence — Sprint 1
+
+## Integrantes
+| NOME | RM |
+| ---- | -- |
+| LEONARDO SCOTTI TOBIAS | 573305 |
+| NATAN SILVA DA COSTA | 573100 |
+| ENZO SEIJI DELGADO TABUCHI | 573156 |
+| LUCA ALMEIDA LUCARELI | 569061 |
+| HENRIQUE ALMEIDA LUCARELI | 569183 |
+
 ## Documento de Lógica do Simulador de Sessão de Recarga
 
 ---
